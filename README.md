@@ -1,4 +1,4 @@
-# Logistic-Regression-on-Breast-Cancer-dataset-
+# Logistic-Regression-on-Breast-Cancer-dataset-Task 4
 
 This project uses **Logistic Regression** to classify tumors as **benign (0)** or **malignant (1)** using the Breast Cancer dataset. This project demonstrates that even with a relatively simple model like **Logistic Regression**, we can achieve high accuracy in distinguishing between **malignant** and **benign** tumors using structured diagnostic data.
 
